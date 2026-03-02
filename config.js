@@ -4,10 +4,10 @@
 
 const CONFIG = {
     // Birthday person's name
-    valentineName: "Lily",
+    valentineName: "Liu",
 
     // Browser tab title
-    pageTitle: "Happy Birthday, Lily! 🎂",
+    pageTitle: "Happy Birthday, Liu! 🎂",
 
     // Floating background emojis
     floatingEmojis: {
